@@ -5,7 +5,7 @@ I'm a digital accessibility specialist and developer who works with government a
 Checkout the [@canaxess GitHub](https://github.com/canaxess) for accessibility resources including:
 * ['fenton' an Accessible UI](https://github.com/canaxess/fenton) for chatbots built on the Microsoft Azure platform built with JQuery, RxJS and ShowDown
 * [Presentations](https://github.com/canaxess/presentations) from accessibility and technology conferences I've attended and spoken at
-* [Accessibiltiy information cards](https://github.com/canaxess/information-cards) to help you make your content accessible
+* [Accessibility information cards](https://github.com/canaxess/information-cards) to help you make your content accessible
 
 ## Interested in working together?
 * Reach out to me on [Twitter](https://twitter.com/MrRossMullen)
