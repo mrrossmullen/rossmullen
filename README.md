@@ -2,13 +2,15 @@
 
 I'm a digital accessibility specialist and developer who works with government and private industry through my company [CANAXESS](https://www.canaxess.com.au/). I present and [write regularly on digital accessibility](https://www.canaxess.com.au/articles/) in current and emerging technology and create digital accessibility courses for [Udemy](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A), Pluralsight and [YouTube](https://www.youtube.com/channel/UC4RRZYoLnoY7XB1QVzI7Mig).
 
-Checkout the [@canaxess GitHub](https://github.com/canaxess) for accessibility information including:
+Checkout the [@canaxess GitHub](https://github.com/canaxess) for accessibility resources including:
 * ['fenton' an Accessible UI](https://github.com/canaxess/fenton) for chatbots built on the Microsoft Azure platform built with JQuery, RxJS and ShowDown
 * [Presentations](https://github.com/canaxess/presentations) from accessibility and technology conferences I've attended and spoken at
+* [Accessibiltiy information cards](https://github.com/canaxess/information-cards) to help you make your content accessible
 
 ## Interested in working together?
-* Reach out to me at [@MrRossMullen](https://twitter.com/MrRossMullen)
-* Drop CANAXESS an email at [hello@canaxess.com.au](mailto:hello@canaxess.com.au)
+* Reach out to me on [Twitter](https://twitter.com/MrRossMullen)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/rossmullen/)
+* Drop CANAXESS an email [hello@canaxess.com.au](mailto:hello@canaxess.com.au)
 * [CANAXESS](https://www.canaxess.com.au/)
 
 <!--
