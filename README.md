@@ -10,7 +10,7 @@ Checkout the [@canaxess GitHub](https://github.com/canaxess) for accessibility r
 ## Interested in working together?
 * Reach out to me on [Twitter](https://twitter.com/MrRossMullen)
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/rossmullen/)
-* Drop CANAXESS an email [hello@canaxess.com.au](mailto:hello@canaxess.com.au)
+* Drop CANAXESS an [email](mailto:hello@canaxess.com.au)
 * [CANAXESS](https://www.canaxess.com.au/)
 
 <!--
