@@ -6,7 +6,7 @@ Checkout the [@canaxess GitHub](https://github.com/canaxess) for accessibility r
 * ['fenton' an Accessible UI](https://github.com/canaxess/fenton) for chatbots built on the Microsoft Azure platform built with JQuery, RxJS and ShowDown
 * [Presentations](https://github.com/canaxess/presentations) from accessibility and technology conferences I've attended and spoken at
 * [Accessibility information cards](https://github.com/canaxess/information-cards) to help you make your content accessible
-* [ACME fashion house](https://github.com/canaxess/ACME-fashion-house) is the demo website for the [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A) Udemy course.
+* The [ACME fashion house](https://github.com/canaxess/ACME-fashion-house) demo website for the [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A) Udemy course.
 
 ## Interested in working together?
 * Reach out to me on [Twitter](https://twitter.com/MrRossMullen)
