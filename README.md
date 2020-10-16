@@ -6,10 +6,10 @@ Checkout the [CANAXESS GitHub](https://github.com/canaxess) for accessibility re
 * [Immersive Reader](https://github.com/canaxess/immersive-reader) a Node.js application which handles routing and API calls to Microsoft Azure for Immersive Reader capability.
 * [React aria live component](https://github.com/canaxess/aria-live-component) hides the complexity of creating aria live regions but provides flexibility for custom live region generation for those that require it
 * ['fenton' an Accessible UI](https://github.com/canaxess/fenton) for chatbots built on the Microsoft Azure platform built with JQuery, RxJS and ShowDown
+* The [ACME fashion house](https://github.com/canaxess/ACME-fashion-house) demo website for the [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A) Udemy course.
 * [Presentations](https://github.com/canaxess/presentations) from accessibility and technology conferences I've attended and spoken at
   * [Accessify Your .NET Blazor Apps](https://github.com/canaxess/presentations/tree/master/SSW-Blazor-Accessibility)
   * [How to make chatbots accessible](https://github.com/canaxess/presentations/tree/master/DTA%202018)
-* The [ACME fashion house](https://github.com/canaxess/ACME-fashion-house) demo website for the [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A) Udemy course.
 
 ## Interested in working together?
 * Reach out to me on [Twitter](https://twitter.com/MrRossMullen)
