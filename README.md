@@ -5,7 +5,6 @@ I'm a digital accessibility specialist and developer who works with government a
 Checkout the [CANAXESS GitHub](https://github.com/canaxess) for accessibility resources including:
 * [aria-live React application](https://github.com/canaxess/react-aria-live-component) which communicates to an API endpoint and returns JSON containing JavaScript and CSS framework values
 * [Immersive Reader](https://github.com/canaxess/immersive-reader) a Node.js application which handles routing and API calls to Microsoft Azure for Immersive Reader capability
-* [React aria live component](https://github.com/canaxess/aria-live-component) hides the complexity of creating aria live regions but provides flexibility for custom live region generation for those that require it
 * ['fenton' an Accessible UI](https://github.com/canaxess/fenton) for chatbots built on the Microsoft Azure platform built with JQuery, RxJS and ShowDown
 * The [ACME fashion house](https://github.com/canaxess/ACME-fashion-house) demo website for the [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A) Udemy course
 * [Presentations](https://github.com/canaxess/presentations) from accessibility and technology conferences I've attended and spoken at
